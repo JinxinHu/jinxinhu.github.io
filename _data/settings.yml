@@ -6,8 +6,8 @@ menu:
 - {name: 'Contact', url: '/contact'}
 
 people:
-- {name: 'WU Jian', title: 'Professor', department: 'Physics & Astronomy', institution: 'Harbin Institute of Technology', institution_address: 'No.92 Westdazhi Street, Harbin, Heilongjiang Province, China', phone: ' 0451-86402324', email: ' jian.wu@hit.edu.cn', office: 'Dongli Building 602', image: 'assets/img/jianwu.jpeg', url: 'http://homepage.hit.edu.cn/jianwu?lang=en'}
-- {name: 'AIGOUY Lionel', title: 'Chargé de Recherche CNRS', department: 'Physics', institution: 'ESPCI Paris - PSL', institution_address: '10 Rue Vauquelin, 75005 Paris', phone: '(33) (0)1 40 79 45 36', email: 'lionel.aigouy@espci.fr', office: ' C132', image: 'assets/img/lionel.jpg', url: 'https://www.lpem.espci.fr/spip.php?article58&lang=fr'}
+- {name: 'WU Jian', title: 'Professor', department: 'Physics & Astronomy', institution: 'Harbin Institute of Technology', institution_address: 'No.92 Westdazhi Street, Harbin, Heilongjiang Province, China', phone: ' (+86) (0)451-86402324', email: ' jian.wu@hit.edu.cn', office: 'Dongli Building 602', image: 'assets/img/jianwu.jpeg', url: 'http://homepage.hit.edu.cn/jianwu?lang=en'}
+- {name: 'AIGOUY Lionel', title: 'Chargé de Recherche CNRS', department: 'Physics', institution: 'ESPCI Paris - PSL', institution_address: '10 Rue Vauquelin, 75005 Paris', phone: '(+33) (0)1 40 79 45 36', email: 'lionel.aigouy@espci.fr', office: ' C132', image: 'assets/img/lionel.jpg', url: 'https://www.lpem.espci.fr/spip.php?article58&lang=fr'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
