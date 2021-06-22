@@ -18,6 +18,19 @@ layout: default
         {% endfor %}
       </div>
     </div>
+    
+      <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4>Language</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.language %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+    
     <div class="row g-5 mb-5">
       <div class="col-md-2">
         <h4>Academic Experience</h4>
@@ -30,24 +43,12 @@ layout: default
       </div>
     </div>
 
-  <div class="row g-5 mb-5">
-      <div class="col-md-2">
-        <h4>Language</h4>
-      </div>
-      <div class="col-md-10">
-        {% for section in site.data.cv.language %}
-          <p class="fw-bold">{{ section.title }}</p>
-          <p>{{ section.description }}</p>
-        {% endfor %}
-      </div>
-    </div>
-    
       <div class="row g-5 mb-5">
       <div class="col-md-2">
         <h4>PDF File</h4>
       </div>
       <div class="col-md-10">
-      <p>{{ Last Update: 22/06/2021 }}</p>
+      <p>{{ Last Update on 22/06/2021 }}</p>
       <p><a href="{{/_data/cv/cv.pdf}}/CV.pdf/{{ /_data/cv/cv.pdf}}">{{ CV.pdf }}</a></p>
       </div>
     </div>
