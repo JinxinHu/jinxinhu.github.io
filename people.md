@@ -1,4 +1,4 @@
 ---
 layout: people
-title: "Blog"
+title: "People"
 ---
