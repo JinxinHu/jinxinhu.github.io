@@ -1,11 +1,11 @@
 featured:
 - {name: 'Experimental study on electrohydrodynamic flows of a dielectric liquid in a needle-plate configuration under direct/alternating current electric field. Zhihao Sun, Dexin Sun, Jinxin Hu, Philippe Traore, Hongliang Yi, Jian Wu', url: '/publications/my paper.pdf'}
-- {name: 'DeepLabCut Experiment on Head Direction Cells of Mice (Copyright Reserved)', url: '/publications/Physiology___DeepLabCut.pdf'}
-- {name: 'Logistic Regression (Copyright Reserved)', url: '/publications/STAP_TP_Logistic_Regression-2.pdf'}
-- {name: 'Study on the FeS2 Crystal Structure by XRD (Copyright Reserved)', url: '/publications/Crystal_Material.pdf'}
+- {name: 'DeepLabCut Experiment on Head Direction Cells of Mice (Copyright Reserved). Jinxin HU, Adrien SMITH', url: '/publications/Physiology___DeepLabCut.pdf'}
+- {name: 'Logistic Regression (Copyright Reserved). Jinxin HU, Aline Brez RAMIREZ, Aline Kneubl ANDREUSSI', url: '/publications/STAP_TP_Logistic_Regression-2.pdf'}
+- {name: 'Study on the FeS2 Crystal Structure by XRD (Copyright Reserved). Jinxin HU', url: '/publications/Crystal_Material.pdf'}
 
 index:
 - {name: 'Experimental study on electrohydrodynamic flows of a dielectric liquid in a needle-plate configuration under direct/alternating current electric field. Zhihao Sun, Dexin Sun, Jinxin Hu, Philippe Traore, Hongliang Yi, Jian Wu', url: '/publications/my paper.pdf'}
-- {name: 'DeepLabCut Experiment on Head Direction Cells of Mice (Copyright Reserved)', url: '/publications/Physiology___DeepLabCut.pdf'}
-- {name: 'Logistic Regression (Copyright Reserved)', url: '/publications/STAP_TP_Logistic_Regression-2.pdf'}
-- {name: 'Study on the FeS2 Crystal Structure by XRD (Copyright Reserved)', url: '/publications/Crystal_Material.pdf'}
+- {name: 'DeepLabCut Experiment on Head Direction Cells of Mice (Copyright Reserved). Jinxin HU, Adrien SMITH', url: '/publications/Physiology___DeepLabCut.pdf'}
+- {name: 'Logistic Regression (Copyright Reserved). Jinxin HU, Aline Brez RAMIREZ, Aline Kneubl ANDREUSSI', url: '/publications/STAP_TP_Logistic_Regression-2.pdf'}
+- {name: 'Study on the FeS2 Crystal Structure by XRD (Copyright Reserved). Jinxin HU', url: '/publications/Crystal_Material.pdf'}
