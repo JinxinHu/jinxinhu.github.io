@@ -16,10 +16,10 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/jinxinhu'}
+- {icon: 'twitter', link: 'https://twitter.com'}
+- {icon: 'instagram', link: 'https://instagram.com'}
+- {icon: 'linkedin', link: 'https://linkedin.com/in/'}
 
 contacts:
 - {name: 'Jinxin Hu', title: 'Master 1 student', department: 'Institute of Physics', institution: 'École polytechnique fédérale de Lausanne (EPFL)', institution_address: 'EPFL SB - SPH', phone: '(000) 000-0000', email: 'jinxin.hu@epfl.ch', image: 'assets/img/contact.jpg'}
