@@ -10,7 +10,7 @@
         <p>{{ contact.institution }}</p>
         <p>{{ contact.institution_address }}</p>
         <p>Phone: {{ contact.phone }}</p>
-        <p>Email: {{ contact.email }}</p>
+         <p>Email: <a href="mailto:{{ contact.email }}">{{ contact.email }}</a> </p>
         <p>Office: {{ contact.office }}</p>
       </div>
       <div class="col-md-6">
