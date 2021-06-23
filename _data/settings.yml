@@ -21,4 +21,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/'}
 
 contacts:
-- {name: 'Jinxin Hu', title: 'Master 1 student', department: 'Institute of Physics', institution: 'École polytechnique fédérale de Lausanne (EPFL)', institution_address: 'EPFL SB - SPH, Station Nº 3, CH - 1015 Lausanne', phone: '(+41) 000-0000', email: 'mailto:jinxin.hu@epfl.ch', office: 'PH A1 000', image: 'assets/img/EPFL.JPG'}
+- {name: 'Jinxin Hu', title: 'Master 1 student', department: 'Institute of Physics', institution: 'École polytechnique fédérale de Lausanne (EPFL)', institution_address: 'EPFL SB - SPH, Station Nº 3, CH - 1015 Lausanne', phone: '(+41) 000-0000', url: 'mailto:jinxin.hu@epfl.ch', office: 'PH A1 000', image: 'assets/img/EPFL.JPG'}
